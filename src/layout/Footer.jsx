@@ -1,4 +1,4 @@
-import './Footer.css';
+import './Layout.css'
 export default function Footer() {  
     return (
         <footer id="page-footer" className=" text-white p-4">
